@@ -1,0 +1,16 @@
+C:\Users\Tonny\source\repos\TicketSystemAPI\DataStore.EF\bin\Debug\netcoreapp2.1\DataStore.EF.deps.json
+C:\Users\Tonny\source\repos\TicketSystemAPI\DataStore.EF\bin\Debug\netcoreapp2.1\DataStore.EF.dll
+C:\Users\Tonny\source\repos\TicketSystemAPI\DataStore.EF\obj\Debug\netcoreapp2.1\DataStore.EF.csproj.CoreCompileInputs.cache
+C:\Users\Tonny\source\repos\TicketSystemAPI\DataStore.EF\obj\Debug\netcoreapp2.1\DataStore.EF.AssemblyInfoInputs.cache
+C:\Users\Tonny\source\repos\TicketSystemAPI\DataStore.EF\obj\Debug\netcoreapp2.1\DataStore.EF.AssemblyInfo.cs
+C:\Users\Tonny\source\repos\TicketSystemAPI\DataStore.EF\bin\Debug\netcoreapp2.1\DataStore.EF.runtimeconfig.json
+C:\Users\Tonny\source\repos\TicketSystemAPI\DataStore.EF\bin\Debug\netcoreapp2.1\DataStore.EF.runtimeconfig.dev.json
+C:\Users\Tonny\source\repos\TicketSystemAPI\DataStore.EF\bin\Debug\netcoreapp2.1\DataStore.EF.pdb
+C:\Users\Tonny\source\repos\TicketSystemAPI\DataStore.EF\obj\Debug\netcoreapp2.1\DataStore.EF.dll
+C:\Users\Tonny\source\repos\TicketSystemAPI\DataStore.EF\obj\Debug\netcoreapp2.1\DataStore.EF.pdb
+C:\Users\Tonny\source\repos\TicketSystemAPI\DataStore.EF\obj\Debug\netcoreapp2.1\DataStore.EF.csprojAssemblyReference.cache
+C:\Users\Tonny\source\repos\TicketSystemAPI\DataStore.EF\bin\Debug\netcoreapp2.1\Core2.dll
+C:\Users\Tonny\source\repos\TicketSystemAPI\DataStore.EF\bin\Debug\netcoreapp2.1\Core2.pdb
+C:\Users\Tonny\source\repos\TicketSystemAPI\DataStore.EF\obj\Debug\netcoreapp2.1\DataStore.EF.csproj.CopyComplete
+C:\Users\Tonny\source\repos\TicketSystemAPI\DataStore.EF\bin\Debug\netcoreapp2.1\System.Net.Http.Formatting.dll
+C:\Users\Tonny\source\repos\TicketSystemAPI\DataStore.EF\bin\Debug\netcoreapp2.1\System.Net.Http.Formatting.xml

@@ -1,0 +1,16 @@
+C:\Users\Tonny\source\repos\TicketSystemAPI\Core2\bin\Debug\netcoreapp2.1\Core2.deps.json
+C:\Users\Tonny\source\repos\TicketSystemAPI\Core2\bin\Debug\netcoreapp2.1\Core2.dll
+C:\Users\Tonny\source\repos\TicketSystemAPI\Core2\bin\Debug\netcoreapp2.1\Core2.pdb
+C:\Users\Tonny\source\repos\TicketSystemAPI\Core2\obj\Debug\netcoreapp2.1\Core2.csproj.CoreCompileInputs.cache
+C:\Users\Tonny\source\repos\TicketSystemAPI\Core2\obj\Debug\netcoreapp2.1\Core2.AssemblyInfoInputs.cache
+C:\Users\Tonny\source\repos\TicketSystemAPI\Core2\obj\Debug\netcoreapp2.1\Core2.AssemblyInfo.cs
+C:\Users\Tonny\source\repos\TicketSystemAPI\Core2\obj\Debug\netcoreapp2.1\Core2.dll
+C:\Users\Tonny\source\repos\TicketSystemAPI\Core2\obj\Debug\netcoreapp2.1\Core2.pdb
+C:\Users\Tonny\source\repos\TicketSystemAPI\Core2\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Tonny\source\repos\TicketSystemAPI\Core2\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.xml
+C:\Users\Tonny\source\repos\TicketSystemAPI\Core2\obj\Debug\netcoreapp2.1\Core2.csproj.CopyComplete
+C:\Users\Tonny\source\repos\TicketSystemAPI\Core2\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Tonny\source\repos\TicketSystemAPI\Core2\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Core.xml
+C:\Users\Tonny\source\repos\TicketSystemAPI\Core2\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tonny\source\repos\TicketSystemAPI\Core2\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\Tonny\source\repos\TicketSystemAPI\Core2\obj\Debug\netcoreapp2.1\Core2.csprojAssemblyReference.cache
